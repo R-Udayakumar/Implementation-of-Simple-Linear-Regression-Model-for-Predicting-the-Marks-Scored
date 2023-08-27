@@ -75,23 +75,23 @@ rmse = np.sqrt(mse)
 print('RMSE = ',rmse)
 ```
 ## Output:
-## DATA HEAD 
+### DATA HEAD 
 ![image](https://github.com/R-Udayakumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118708024/2ea7a4a3-d950-4d86-b9cc-076a8f4dae8f)
-## DATA TAIL
+### DATA TAIL
 ![image](https://github.com/R-Udayakumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118708024/d5af93b5-b09f-4d38-952b-9131ae04a683)
-## ARRAY VALUES OF X
+### ARRAY VALUES OF X
 ![image](https://github.com/R-Udayakumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118708024/4de5f7f4-59e7-43c9-b280-9ee2d521b82f)
-## ARRAY VALUES OF Y
+### ARRAY VALUES OF Y
 ![image](https://github.com/R-Udayakumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118708024/87e43997-f7d0-4b79-8fcd-60073c70a73c)
-## VALUES OF Y PREDICTION
+### VALUES OF Y PREDICTION
 ![image](https://github.com/R-Udayakumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118708024/e0741a3d-c635-4099-be77-e8b0a0a87137)
-## ARRAY VALUES OF Y TEST
+### ARRAY VALUES OF Y TEST
 ![image](https://github.com/R-Udayakumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118708024/e55c8f0c-c1ee-4e5d-bc7c-404e87b26863)
-## TRAINING SET GRAPH
+### TRAINING SET GRAPH
 ![image](https://github.com/R-Udayakumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118708024/8acd153d-c365-46a1-94aa-862572c6c25c)
-## TESTING SET GRAPH
+### TESTING SET GRAPH
 ![image](https://github.com/R-Udayakumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118708024/13fc86d1-3126-4d23-b38e-df9848b26536)
-## VALUES OF MSE, MAE AND RMSE
+### VALUES OF MSE, MAE AND RMSE
 ![image](https://github.com/R-Udayakumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118708024/34d51735-8251-42fc-bf60-74aa0c78902d)
 
 ## Result:
